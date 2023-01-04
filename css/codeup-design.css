@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&display=swap');
+
+body{
+    font-family: 'Abel', sans-serif;
+}
+img {
+    height: 32px;
+    width: 32px;
+
+    margin: 8px;
+}
+h5 {
+    margin-right: 2em;
+}
+.nav-subjects a {
+    font-size: small;
+    margin-top: -4px;
+}
