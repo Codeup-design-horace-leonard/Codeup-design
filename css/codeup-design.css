@@ -3,6 +3,9 @@
 body{
     font-family: 'Abel', sans-serif;
 }
+.bg-codeup-color {
+    background-color: rgb(240,240,240);
+}
 img {
     height: 32px;
     width: 32px;
@@ -28,4 +31,23 @@ h5 {
     background-color: #E6563B;
     width: 100px;
     height: 100px;
+    border: 8px solid white;
+}
+.circle-orange {
+    background-color: #EB9D3A;
+    width: 100px;
+    height: 100px;
+    border: 8px solid white;
+}
+.circle-green {
+    background-color: #7CB06C;
+    width: 100px;
+    height: 100px;
+    border: 8px solid white;
+}
+.circle-blue {
+    background-color: #00ABA9;
+    width: 100px;
+    height: 100px;
+    border: 8px solid white;
 }
