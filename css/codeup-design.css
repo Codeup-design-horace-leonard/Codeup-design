@@ -74,6 +74,30 @@ h5 {
     padding: 0px;
     margin-top: -8px;
 }
+.circle-orange-1 {
+    background-color: #EB9D3A;
+    width: 18px;
+    height: 18px;
+    padding: 0px;
+    margin-top: -8px;
+    margin-left: 8px;
+}
+.circle-green-1 {
+    background-color: #7CB06C;
+    width: 18px;
+    height: 18px;
+    padding: 0px;
+    margin-top: -8px;
+    margin-left: 8px;
+}
+.circle-blue-1 {
+    background-color: #00ABA9;
+    width: 18px;
+    height: 18px;
+    padding: 0px;
+    margin-top: -8px;
+    margin-left: 8px;
+}
 .image-text {
 
 }
