@@ -104,3 +104,6 @@ h5 {
 .letter-d {
     font-size: 11px;
 }
+.caption1 {
+    overflow-wrap:break-word ;
+}
