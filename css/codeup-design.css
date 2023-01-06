@@ -63,9 +63,12 @@ h5 {
     margin: 6px;
 }
 .img-4 {
-    width: 500px;
-    height: auto;
+    width: 375px;
+    height: 240px;
     border: 10px solid lightgrey;
+}
+.w-4{
+    width: 375px;
 }
 .circle-red-1 {
     background-color: #E6563B;
@@ -103,4 +106,20 @@ h5 {
 }
 .letter-d {
     font-size: 11px;
+}
+
+.right-side-img {
+    height: 75px;
+    width: 75px;
+    background-size: cover;
+    border: 2px solid lightgrey;
+    margin-bottom: 20px;
+}
+.right-side-text {
+    margin-left: 10px;
+    font-family: 'Anton', sans-serif;
+    font-size: 23px;
+}
+.custom-end-text {
+    color: hsl(0deg 0% 85%);
 }
