@@ -83,7 +83,7 @@ h5 {
     height: 18px;
     padding: 0px;
     margin-top: -8px;
-    margin-left: 8px;
+    /*margin-left: 8px;*/
 }
 .circle-green-1 {
     background-color: #7CB06C;
@@ -91,7 +91,7 @@ h5 {
     height: 18px;
     padding: 0px;
     margin-top: -8px;
-    margin-left: 8px;
+    /*margin-left: 8px;*/
 }
 .circle-blue-1 {
     background-color: #00ABA9;
@@ -99,13 +99,13 @@ h5 {
     height: 18px;
     padding: 0px;
     margin-top: -8px;
-    margin-left: 8px;
+    /*margin-left: 8px;*/
 }
-.image-text {
-
-}
-.letter-d {
-    font-size: 11px;
+.circle-letters {
+    font-size: 9px;
+    font-family: 'Anton', sans-serif;
+    margin-left:3px;
+    margin-right:3px;
 }
 
 .right-side-img {
